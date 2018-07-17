@@ -1,4 +1,4 @@
-package com.blockchainmarty.TwitterAutoBot;
+
 
 import twitter4j.Status;
 import twitter4j.Twitter;
